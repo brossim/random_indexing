@@ -3,7 +3,7 @@
 
 ## Modulprojekt Computerlinguististische Techniken WiSe 2022/2023
 
-Das vorliegende Projekt implementiert die in Sahlgren 2005 vorgestellte Methodik zur Erstellung von randomisierten und dimensionsreduzierten Wortvektoren zur semantischen Repräsention von Wörtern. Zur Evaluierung werden verschiedene Modelle statistisch mit menschlichen Bewertungen zur Relation zwischen Wörtern mittels der Spearman Korrelation verglichen (Intrinsische Evaluierung) und als Features zur Darstellung von Texten verwendet, anhand derer ein Textklassifkation trainiert und auf die kategorisierten Texte des Brown-Korpus angewandt.  
+Das vorliegende Projekt implementiert die in Sahlgren 2005 vorgestellte Methodik zur Erstellung von randomisierten und dimensionsreduzierten Wortvektoren zur semantischen Repräsention von Wörtern. Zur Evaluierung der Methodik werden Modelle mit verschiedenen Parametern statistisch mit menschlichen Bewertungen zur Relation zwischen Wörtern mittels der Spearman Korrelation verglichen (Intrinsische Evaluierung) sowie als Features zur Darstellung von Texten verwendet, anhand derer ein Textklassifkator trainiert und auf Texte des Brown-Korpus angewandt wird (Extrinsische Evaluierung).  
 
 ## 1. Struktur & Bestandteile
 
